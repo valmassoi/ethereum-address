@@ -1,17 +1,17 @@
 {
   "author": "Craig Hammell <cilphex@gmail.com>",
-  "name": "ethereum-address",
+  "name": "ethereum-address-es5",
   "description": "Ethereum address validation",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engineStrict": true,
   "engines": {
     "npm": ">= 3.7.0",
     "node": ">= 4.3.0"
   },
-  "homepage": "https://github.com/cilphex/ethereum-address",
+  "homepage": "https://github.com/valmassoi/ethereum-address-es5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cilphex/ethereum-address.git"
+    "url": "git://github.com/valmassoi/ethereum-address-es5.git"
   },
   "license": "MIT",
   "main": "index",

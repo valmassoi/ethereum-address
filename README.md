@@ -1,4 +1,4 @@
-# ethereum-address
+# ethereum-address-es5
 
 Ethereum address validation
 
@@ -9,7 +9,7 @@ utility method, but without the rest of web3.js.
 ## Install
 
 ```
-npm install ethereum-address
+npm install ethereum-address-es5
 ```
 
 ## Usage
